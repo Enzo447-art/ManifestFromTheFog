@@ -108,6 +108,15 @@
     {
         "filename": "tacz-1.19.2-1.1.4-hotfix-all.jar",
         "url": "https://cdn.modrinth.com/data/SzzJttH8/versions/zuX7UjoK/tacz-1.19.2-1.1.4-hotfix-all.jar?mr_download_reason=standalone&mr_game_version=1.19.2"
+    },
+    {
+        "filename": "cartoon_dweller-1.19.2-1.8.0.jar",
+        "url": "https://github.com/Enzo447-art/cartoon-dweller/raw/refs/heads/main/cartoon_dweller-1.19.2-1.8.0.jar"
+
+    },
+    {
+        "filename": "Appolyon V1.1.1 (Forge 1.19.2).jar",
+        "url": "https://github.com/Enzo447-art/appolyon/raw/refs/heads/main/Apollyon%20v1.1.1%20(Forge%201.19.2).jar"
     }
 
 
