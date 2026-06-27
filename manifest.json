@@ -104,6 +104,10 @@
     {
         "filename": "architectury-6.6.92-forge.jar",
         "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/96L7fC9l/architectury-6.6.92-forge.jar?mr_download_reason=standalone&mr_game_version=1.19.2&mr_loader=forge"
+    },
+    {
+        "filename": "tacz-1.19.2-1.1.4-hotfix-all.jar",
+        "url": "https://cdn.modrinth.com/data/SzzJttH8/versions/zuX7UjoK/tacz-1.19.2-1.1.4-hotfix-all.jar?mr_download_reason=standalone&mr_game_version=1.19.2"
     }
 
 
